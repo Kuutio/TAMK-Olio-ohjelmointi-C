@@ -1,0 +1,16 @@
+1) Lis‰‰ koulutusohjelma
+2) Tulosta koulutusohjelmien nimet
+3) Tulosta koulutusohjelmien m‰‰r‰
+4) Lis‰‰ koulutusohjelmaan opettaja
+5) Tulosta koulutusohjelman opettajat
+6) Lis‰‰ koulutusohjelmaan opiskelija
+7) Tulosta koulutusohjelman opiskelijat
+8) Poista koulutusohjelma
+9) Poista opettaja
+10) Poista opiskelija
+11) P‰ivit‰ koulutusohjelman nimi
+12) P‰ivit‰ opettajan tiedot
+13) P‰ivit‰ opiskelijan tiedot
+14) Lue tiedot
+15) Tallenna tiedot
+0) Lopeta
